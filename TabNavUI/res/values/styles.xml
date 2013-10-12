@@ -1,0 +1,38 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Black">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <!-- This is a theme that will adjust itself depending on the API version.
+         The default definition is the safe one, using a theme that has always
+         been defined.  Look at values-11/styles.xml for a variation that is
+         selected when the holographic theme is available. -->
+    <style name="ThemeHolo" parent="android:Theme">
+    </style>
+
+    <!-- This is a theme that will adjust itself depending on the API version.
+         The default definition is the safe one, using a theme that has always
+         been defined.  Look at values-11/styles.xml for a variation that is
+         selected when the holographic theme is available. -->
+    <style name="ThemeHoloDialog" parent="android:Theme.Dialog">
+    </style>
+    
+    <!-- Base application theme is the default theme. -->
+    <style name="Theme" parent="android:Theme">
+        
+    </style>
+</resources>

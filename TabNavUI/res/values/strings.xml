@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TabNavUI</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="list_8_new_photo">New photo</string>
+    <string name="list_8_clear_photos">Clear photos</string>
+    <string name="list_8_no_photos">No photos</string>
+    <string name="controls_1_save">Save</string>
+    <string name="controls_1_checkbox_1">Checkbox 1</string>
+    <string name="controls_1_checkbox_2">Checkbox 2</string>
+    <string name="controls_1_radiobutton_1">RadioButton 1</string>
+    <string name="controls_1_radiobutton_2">RadioButton 2</string>
+    <string name="controls_1_star">Star</string>
+
+    <!--  uit lib -->
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_banen">Banen</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="geef_banen">Geef baannummers in volgorde</string>
+    <string name="eerste_baan">Eerste baan:</string>
+    <string name="tweede_baan">"Tweede baan: "</string>
+    
+    <!-- Shouldn't be localized -->
+    <string name="textColorPrimary">textColorPrimary</string>
+    <string name="textColorSecondary">textColorSecondary</string>
+    <string name="textColorTertiary">textColorTertiary</string>
+    <string name="listSeparatorTextViewStyle">listSeparatorTextViewStyle</string>
+
+    <string name="menu_preferences_label">Instellingen</string>
+    <string name="menu_dialog_label">Open as dialog</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    
+</resources>
